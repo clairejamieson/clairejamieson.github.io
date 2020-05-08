@@ -34,6 +34,15 @@ function tipOfTheWeek ()
 	               &mdash; sitting forward as though you are interested can help you <em>be</em>
 	               interested, while sitting back as though you’re bored and couldn’t
 	               care less makes it less likely you’ll take things in.`
+	    },
+		
+	    {
+		header: "<u>Use</u> what you learn",
+		text: `<u>Do</u> something with the information as you learn it.  Trying to explain
+                       it to someone else is one of the best ways of fixing it in your mind and
+                       making sure you understand it.  (When my daughter was young, she even taught
+                       her lessons to her rag dolls!)  But if that's no an option, at least take
+                       brief notes, even if you don’t intend to do anything with them later.`
 	    }
 	];
 
